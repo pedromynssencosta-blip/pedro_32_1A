@@ -3,5 +3,9 @@ body{
     background: black
 }
 header{
-    border-bottom: ;
+    border-bottom: solid 2px rgb(rgb(98,10,10));
+    padding: 20px;
+    font-size: 32px;
+    color:black;
+    background: red);
 }
